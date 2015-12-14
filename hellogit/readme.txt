@@ -1,6 +1,6 @@
 ﻿Git is a version control system.
 Git is a free  software.
-this is my first demo on git
+this is my  demo on git
 git tracks changes
 
 
